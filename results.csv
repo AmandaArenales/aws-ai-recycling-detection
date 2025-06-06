@@ -1,0 +1,16 @@
+image,label,confidence
+images/image1.png,Bottle,99.74493408203125
+images/image10.png,Beverage,98.42511749267578
+images/image11.png,Food,99.82866668701172
+images/image12.png,Bag,99.12423706054688
+images/image13.png,Herbal,99.6956558227539
+images/image14.png,Apple,99.80522155761719
+images/image15.png,Plant,99.959716796875
+images/image2.png,Bottle,99.84750366210938
+images/image3.png,Bottle,99.92855072021484
+images/image4.png,Box,99.97001647949219
+images/image5.png,Box,99.76670837402344
+images/image6.png,Box,99.95223236083984
+images/image7.png,Beverage,99.64806365966797
+images/image8.png,Can,86.8749771118164
+images/image9.png,Can,98.5926284790039
